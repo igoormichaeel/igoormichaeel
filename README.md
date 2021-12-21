@@ -9,7 +9,7 @@
 </br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
 </div>
 
 </br>
@@ -43,11 +43,13 @@
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" height="23">
   </a>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
 
   </br>
 
   <img width="60%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
   </br>
+  
+  ![snake gif](https://raw.githubusercontent.com/igoormichaeel/igoormichaeel/477ccb741ff6e9bc373d9720022fd4cae727b002/github-contribution-grid-snake.svg)
 </div>
