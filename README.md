@@ -51,5 +51,5 @@
 
   </br>
   
-  [comment]: <> (![snake gif](https://raw.githubusercontent.com/igoormichaeel/igoormichaeel/477ccb741ff6e9bc373d9720022fd4cae727b002/github-contribution-grid-snake.svg)
+  <!-- ![snake gif](https://raw.githubusercontent.com/igoormichaeel/igoormichaeel/477ccb741ff6e9bc373d9720022fd4cae727b002/github-contribution-grid-snake.svg -->
 </div>
